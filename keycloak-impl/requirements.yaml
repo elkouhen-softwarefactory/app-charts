@@ -1,4 +1,0 @@
-dependencies:
-  - name: keycloak
-    version: "4.0.8"
-    repository: https://kubernetes-charts.storage.googleapis.com
