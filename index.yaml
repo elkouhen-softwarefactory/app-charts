@@ -3,7 +3,7 @@ entries:
   books-api:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-01-19T22:59:44.437180571Z
+    created: 2019-01-19T23:00:32.7627651Z
     description: A Helm chart for Kubernetes
     digest: 9bf2a66339fb6a23c127fb40e786e1e140e69833f9f27ee9f32c89adc808814c
     name: books-api
@@ -13,7 +13,7 @@ entries:
   books-gui:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-01-19T22:59:44.437811233Z
+    created: 2019-01-19T23:00:32.763092959Z
     description: A Helm chart for Kubernetes
     digest: f652f356436d9c5207164b1740723fa8b635d6a1ba79d7bfa5f7996d6e3af687
     name: books-gui
@@ -23,11 +23,11 @@ entries:
   h2:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-01-19T22:59:44.439069649Z
+    created: 2019-01-19T23:00:32.763385815Z
     description: A Helm chart for Kubernetes
     digest: 05b88892a927a05506d8c2cfa47237d58529010df4c15f921c3922f76928fddd
     name: h2
     urls:
     - https://softeamouest-opus.github.io/charts/bin/h2-0.0.11.tgz
     version: 0.0.11
-generated: 2019-01-19T22:59:44.435916751Z
+generated: 2019-01-19T23:00:32.761966013Z
