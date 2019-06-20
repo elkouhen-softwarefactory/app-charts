@@ -27,6 +27,9 @@ spec:
           - name: http
             containerPort: 8080
             protocol: TCP
+          - name: jdwp
+            containerPort: 5005
+            protocol: TCP
 {{- if .Values.h2.enabled}}
           env:
           - name: SPRING_DATASOURCE_URL
