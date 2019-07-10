@@ -7,7 +7,7 @@ spec:
   secretName: {{ .Release.Name }}-secret
   issuerRef:
     name: letsencrypt-issuer
-    kind: Issuer
+    kind: ClusterIssuer
   commonName: {{ .Release.Name }}.melkouhen.net
   dnsNames:
     - {{ .Release.Name }}.melkouhen.net
