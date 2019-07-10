@@ -3,7 +3,16 @@ entries:
   books-api:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-07T11:09:33.348291+02:00"
+    created: "2019-07-10T14:53:38.432039+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 6ba925bfcb9f16056760b38f16b8216e8ddaf2cadf16923835ea3d46464d355d
+    name: books-api
+    urls:
+    - https://elkouhen.github.io/charts/bin/books-api-0.0.15.tgz
+    version: 0.0.15
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-07-10T14:53:38.431576+02:00"
     description: A Helm chart for Kubernetes
     digest: b71d46df2dcb7383fdd3659db870a7d79909d17f03a0b9ec01fc2beba6de32ed
     name: books-api
@@ -12,7 +21,7 @@ entries:
     version: 0.0.14
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-07T11:09:33.347291+02:00"
+    created: "2019-07-10T14:53:38.430614+02:00"
     description: A Helm chart for Kubernetes
     digest: ed9397ce5b357b8f7aad1f7200188d0c672e5762318d25185f360e2270de6b29
     name: books-api
@@ -21,7 +30,7 @@ entries:
     version: 0.0.13
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-07T11:09:33.346925+02:00"
+    created: "2019-07-10T14:53:38.429869+02:00"
     description: A Helm chart for Kubernetes
     digest: 5fde06a036f71362e3b95e142293b807ccc0bafdbc026f45107a07d1cae7730a
     name: books-api
@@ -30,7 +39,7 @@ entries:
     version: 0.0.12
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-07T11:09:33.346546+02:00"
+    created: "2019-07-10T14:53:38.429316+02:00"
     description: A Helm chart for Kubernetes
     digest: 9bf2a66339fb6a23c127fb40e786e1e140e69833f9f27ee9f32c89adc808814c
     name: books-api
@@ -40,7 +49,7 @@ entries:
   books-gui:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-07T11:09:33.348562+02:00"
+    created: "2019-07-10T14:53:38.433179+02:00"
     description: A Helm chart for Kubernetes
     digest: f652f356436d9c5207164b1740723fa8b635d6a1ba79d7bfa5f7996d6e3af687
     name: books-gui
@@ -50,11 +59,11 @@ entries:
   h2:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-07T11:09:33.348787+02:00"
+    created: "2019-07-10T14:53:38.433622+02:00"
     description: A Helm chart for Kubernetes
     digest: 05b88892a927a05506d8c2cfa47237d58529010df4c15f921c3922f76928fddd
     name: h2
     urls:
     - https://elkouhen.github.io/charts/bin/h2-0.0.11.tgz
     version: 0.0.11
-generated: "2019-06-07T11:09:33.34588+02:00"
+generated: "2019-07-10T14:53:38.428513+02:00"
