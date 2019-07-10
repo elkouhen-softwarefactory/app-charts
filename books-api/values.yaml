@@ -24,10 +24,7 @@ ingress:
   hosts:
   - books-api.k8.wildwidewest.xyz
   secretName: books-api-secret
-  tls:
-  - hosts:
-    - books-api.k8.wildwidewest.xyz
-    secretName: books-api-secret
+
 
 resources: {}
   # We usually recommend not to specify default resources and to leave this as a conscious
