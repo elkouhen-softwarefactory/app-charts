@@ -14,7 +14,7 @@ spec:
   acme:
     config:
       - dns01:
-          ingressClass: nginx
+          provider: dns
         domains:
           - {{ .Release.Name }}.melkouhen.net
   {{- end }}
