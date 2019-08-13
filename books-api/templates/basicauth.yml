@@ -1,0 +1,9 @@
+{{- if .Values.auth.enabled -}}
+apiVersion: v1
+kind: Secret
+type: Opaque
+metadata:
+  name: {{ .Release.Name }}-basicauthsecret
+data:
+  auth: {{ .Values.auth.htpassword }}
+  {{- end }}
